@@ -1,4 +1,9 @@
 # siteNoticias
+
+usuário : Diogo Ramos 
+e-mail  : diogo@gmail.com
+senha   : info123
+
 News site for my school
 
 Actividy desenvolved for CIMOL (COLÉGIO TÉCNICO ESTADUAL MONTEIRO LOBATO) between 2020/08/01 and 2020/08/25
